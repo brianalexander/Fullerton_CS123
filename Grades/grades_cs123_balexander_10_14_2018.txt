@@ -1,0 +1,16 @@
+
+Login Name: balexander ( @00978381)
+Grades for CS123 as of 10/14/2018
+=====================================
+ Projects (5%):  100.00
+ Exams (70%):     94.17
+ Quizzes (15%):   95.00
+ Lab (5%):        49.33
+ Homework (5%):   98.57
+ ----------------------
+ Total:          92.56%
+
+(Grades just after MidTerm #1...)
+(Last homework graded is HW07...)
+(Max possible lab hours so far is 6...)
+

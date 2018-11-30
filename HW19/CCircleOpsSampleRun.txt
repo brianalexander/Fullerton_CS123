@@ -1,0 +1,38 @@
+// ============================================================================
+// Sample Run of the "CCircleOps" Program (Fall 2018)
+// ============================================================================
+
+CCircle: default
+CCircle: type conversion
+CCircle: copy ctor
+Radius of circOne = 0
+Radius of circTwo = 5.82
+Radius of circThree = 5.82
+
+Enter a radius for circOne: 3.2
+The radius of circOne is now 3.2
+
+Enter the number of times to increment circOne: 4
+ radius = 4.2, area = 55.3896, circumference = 26.376
+ radius = 5.2, area = 84.9056, circumference = 32.656
+ radius = 6.2, area = 120.702, circumference = 38.936
+ radius = 7.2, area = 162.778, circumference = 45.216
+
+Enter the number of times to decrement circOne: 9
+ radius = 6.2, area = 120.702, circumference = 38.936
+ radius = 5.2, area = 84.9056, circumference = 32.656
+ radius = 4.2, area = 55.3896, circumference = 26.376
+ radius = 3.2, area = 32.1536, circumference = 20.096
+ radius = 2.2, area = 15.1976, circumference = 13.816
+ radius = 1.2, area = 4.5216, circumference = 7.536
+ radius = 0.2, area = 0.1256, circumference = 1.256
+ radius = 0.2, area = 0.1256, circumference = 1.256
+ radius = 0.2, area = 0.1256, circumference = 1.256
+
+Enter a radius for circOne: 55.4
+Enter a radius for circTwo: 33.4
+Guess what? circOne >= circTwo
+
+CCircle: copy ctor
+CCircle: copy ctor
+CCircle: copy ctor

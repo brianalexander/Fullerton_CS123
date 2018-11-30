@@ -1,0 +1,4 @@
+Here's some information about the circle objects...
+circOne: radius = 55.4, area = 9637.16, circumference = 347.912
+circTwo: radius = 33.4, area = 3502.86, circumference = 209.752
+circThree: radius = 5.82, area = 106.359, circumference = 36.5496

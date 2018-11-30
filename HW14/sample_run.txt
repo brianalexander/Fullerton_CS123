@@ -1,0 +1,89 @@
+================================================================================
+Sample Run of the "Matrix Manipulation" Program
+================================================================================
+
+Welcome to the Matrix Manipulation Program!
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> d
+Please enter the field width to use: 15
+Here are the current matrix contents:
+              1              0          65535              1      880403952
+          32767        4198360              0              2              0
+        4198493              0    -1112191928          32615        4198400
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> g
+The sum of all the matrix values is -219061802
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> i
+Enter a value to assign to all matrix elements: 1
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> d
+Please enter the field width to use: 7
+Here are the current matrix contents:
+      1      1      1      1      1
+      1      1      1      1      1
+      1      1      1      1      1
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> g
+The sum of all the matrix values is 15
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> i
+Enter a value to assign to all matrix elements: 12345
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> d
+Please enter the field width to use: 10
+Here are the current matrix contents:
+     12345     12345     12345     12345     12345
+     12345     12345     12345     12345     12345
+     12345     12345     12345     12345     12345
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> h
+Sorry, invalid selection, try again...
+
+Please select one of the following options:
+ I)nitialize the matrix
+ D)isplay the matrix
+ G)et the sum of all values in the matrix
+ Q)uit
+=> q
+Bye!

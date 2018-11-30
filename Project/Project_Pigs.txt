@@ -1,0 +1,21 @@
+=====================================
+Project: Pigs (11/14/2018)
+=====================================
+
+Score: A-
+
+The user should be able to just press the 'Enter' key alone to
+continue rolling, it looks like you still need to figure that one out...
+
+The CDie member functions in cdie.cpp don't have any function
+headers. In the CPigPlayer member functions, there isn't any internal
+documentation for your code. Something of this size and complexity
+should really be thoroughly documented wih proper function headers and
+embedded comments. Also, you're straying from the CSG, particularly
+with regards to use of whitespace.
+
+The formatting of your code is looking good, it's clean and
+consistent, and the runtime behavior of your program is fine, it seems
+to be doing what it's supposed to be doing.
+
+Overall, you've done a nice job here, congratulations!

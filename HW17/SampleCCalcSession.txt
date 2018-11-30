@@ -1,0 +1,156 @@
+Calculator Options:                                                                      
+  [C] Clear                                                                              
+  [T] Set Value                                                                          
+  [V] Display Value                                                                      
+  [A] Add                                                                                
+  [S] Subtract                                                                           
+  [D] Divide                                                                             
+  [M] Multiply                                                                           
+  [Q] Quit                                                                               
+Please enter a selection: v                                                              
+The current value is 0                                                                   
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: t
+Please enter a new value to assign: 3.14
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: v
+The current value is 3.14  
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: a
+Please enter a value to add: 500
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: v
+The current value is 503.14
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: d
+Please enter a divisor: .087
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: v
+The current value is 5783.22
+
+Calculator Options:
+  [C] Clear        
+  [T] Set Value    
+  [V] Display Value
+  [A] Add          
+  [S] Subtract     
+  [D] Divide       
+  [M] Multiply     
+  [Q] Quit         
+Please enter a selection: m
+Please enter a value to multiply: .087
+
+Calculator Options:
+  [C] Clear
+  [T] Set Value
+  [V] Display Value
+  [A] Add
+  [S] Subtract
+  [D] Divide
+  [M] Multiply
+  [Q] Quit
+Please enter a selection: v
+The current value is 503.14
+
+Calculator Options:
+  [C] Clear
+  [T] Set Value
+  [V] Display Value
+  [A] Add
+  [S] Subtract
+  [D] Divide
+  [M] Multiply
+  [Q] Quit
+Please enter a selection: d
+Please enter a divisor: 0
+Sorry, division by zero not allowed...
+
+Calculator Options:
+  [C] Clear
+  [T] Set Value
+  [V] Display Value
+  [A] Add
+  [S] Subtract
+  [D] Divide
+  [M] Multiply
+  [Q] Quit
+Please enter a selection: s
+Please enter a value to subtract: .14
+
+Calculator Options:
+  [C] Clear
+  [T] Set Value
+  [V] Display Value
+  [A] Add
+  [S] Subtract
+  [D] Divide
+  [M] Multiply
+  [Q] Quit
+Please enter a selection: v
+The current value is 503
+
+Calculator Options:
+  [C] Clear
+  [T] Set Value
+  [V] Display Value
+  [A] Add
+  [S] Subtract
+  [D] Divide
+  [M] Multiply
+  [Q] Quit
+Please enter a selection: q
+Bye!!
